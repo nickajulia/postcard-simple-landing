@@ -1,10 +1,10 @@
 {
-	"id": "Get the Guide",
-	"name": "Get the Guide", 
+	"id": "postcard simple landing",
+	"name": "postcard simple landing", 
 	"mobile": true, 
-	"notes": "version 1.101", 
+	"notes": "version 1.103", 
 	"syntax": 4, 
-	"version": 1.101,
+	"version": 1.103,
 	"style": {
 		"html": "",
 		"replacements": [
@@ -106,13 +106,10 @@
         },
          
 
-
-
-
    
         {
       "id": "optButton",
-      "name": "optButton",
+      "name": "Buy Button",
       "type": "link"
         }
 
