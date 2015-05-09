@@ -179,7 +179,7 @@ color: #000099;
 
 
 .optBox{
-  border: 3px dashed #000099;
+  border: 3px dashed #000098;
   background-color: $optBox;
   margin-top: 20px;
   margin-bottom: 20px;
@@ -191,7 +191,7 @@ color: #000099;
 }
 
 .optButton, .optButton:hover{
-  background: linear-gradient(to bottom, rgba(252,180,8,1) 0%,rgba(255,96,0,1) 100%);
+  background: linear-gradient(to bottom, #fcb408 0%, #ff6000  100%);
   color: #003;
   padding: 5px;
   border: 1px solid #900;
